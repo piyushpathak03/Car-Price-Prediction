@@ -1,6 +1,6 @@
 # Car-Price-Prediction
 
-How do you evaluate the apt Price for a second hand car?
+How do you evaluate the apt Price for a second hand cars?
 
 You look at the number of years, the type of fuel, how many KMS it has run etc.
 
